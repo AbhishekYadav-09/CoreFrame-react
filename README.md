@@ -1,2 +1,2 @@
 # CoreFrame-React
-## “Where Components Find Their Core”
+### “Where Components Find Their Core”
